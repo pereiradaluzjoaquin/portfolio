@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 15px;
+  gap: 10px;
+}
+
+.linksDetail {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f0f0f0;
+}
