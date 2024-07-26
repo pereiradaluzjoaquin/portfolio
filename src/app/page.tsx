@@ -28,6 +28,18 @@ export default function Home() {
         </a>
         <p>Ecommerce with Fake Api</p>
       </div>
+      <div className={styles.linksDetail}>
+        <a href="https://nasa-api-ui.vercel.app/">
+          <Image
+            src="/nasa mars rover.png"
+            alt="Image"
+            width={500}
+            height={500}
+            layout="responsive"
+          />
+        </a>
+        <p>Nasa Mars Rover Photos</p>
+      </div>
     </main>
   );
 }
